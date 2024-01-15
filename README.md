@@ -15,4 +15,4 @@ Some of our conferences are free of charge. If you'd like to meet us in person, 
 - If you are only interested in our consulting company Isorro.
 - Or to see our other news.
 ## Contact
-If you have any questions or requests: contact@kyvern.org
+If you have any questions or requests: contact@kyvern.org.
