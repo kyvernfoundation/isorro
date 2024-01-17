@@ -11,7 +11,7 @@ You'll get a personalized contact e-mail and a team dedicated to providing you w
 ## Conferences
 Some of our conferences are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
-- If you'd like to see all the latest news from the Kyvern Foundation.
+- If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you are only interested in our consulting company Isorro.
 - Or to see our other news.
 ## Contact
