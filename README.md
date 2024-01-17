@@ -9,7 +9,7 @@ Send us your request for advice to this e-mail address adviceisorro@kyvern.org a
 If you'd like faster, more in-depth advice: Ask us for a premium account. Premium accounts are available from €10 per month.
 You'll get a personalized contact e-mail and a team dedicated to providing you with the best advice at your request.
 ## Conferences
-Some of our conferences are free of charge. If you'd like to meet us in person, now's your chance.
+Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you are only interested in our consulting company Isorro.
