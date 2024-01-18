@@ -2,7 +2,7 @@
 Isorro comes from the Greek word ισορροπία (pronounced isorropia) meaning balance.
 - Our mission is to advise on the use of digital tools to bridge the digital divide.
 ## How do we do it?
-We identify the best tools and make them accessible to as many people as possible.
+We identify the best [tools](https://github.com/kyvernfoundation/isorro/tree/main/tools) and make them accessible to as many people as possible.
 ## Free advice
 Send us your request for advice to this e-mail address adviceisorro@kyvern.org and we'll get back to you within 48 hours.
 ## Paid advice
