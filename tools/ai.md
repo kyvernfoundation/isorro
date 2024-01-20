@@ -9,3 +9,4 @@ Now we can have a Copilot in your life, your free personal assistant that can do
 - ChatGPT is also very impressive, but you have to pay to unlock more features.
   - Good news: Copilot uses the power of GPT without its limitations.
 - llama : Facebook has released its ia, you can make your own ia that's great yes. There are some good initiatives out there if you have the time to make it.
+- Interesting projects if you want to dig deeper into the subject of having your own ia: jan.ai, LM Studio, Faraday.dev
