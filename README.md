@@ -6,7 +6,7 @@ We identify the best [tools](https://github.com/kyvernfoundation/isorro/tree/mai
 ## Free advice
 Send us your request for advice to this e-mail address adviceisorro@kyvern.org and we'll get back to you within 48 hours.
 ## Paid advice
-If you'd like faster, more in-depth advice: Ask us for a premium account. Premium accounts are available from €10 per month.
+If you'd like faster, more in-depth advice: Ask us for a premium account. Premium accounts are available from €1 per month.
 You'll get a personalized contact e-mail and a team dedicated to providing you with the best advice at your request.
 ## Conferences
 Some of [our conferences](https://github.com/kyvernfoundation/conferences) are free of charge. If you'd like to meet us in person, now's your chance.
