@@ -13,6 +13,5 @@ Some of [our conferences](https://github.com/kyvernfoundation/conferences) are f
 ## News
 - If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
 - If you're only interested in [news from our consulting company Isorro](https://github.com/kyvernfoundation/isorro/tree/main/news).
-- Or to see our other news.
 ## Contact
 If you have any questions or requests: contact@kyvern.org.
