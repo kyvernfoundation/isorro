@@ -1,4 +1,4 @@
-# Artificial intelligence
+# Artificial intelligence 🤖
 Computers revolutionized humanity, and artificial intelligence is its evolution.
 > Let's jump on the bandwagon and use this tool.
 ## Copilot
