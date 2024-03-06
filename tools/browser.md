@@ -3,8 +3,6 @@ It may seem contradictory to recommend Firefox and Microsoft Edge at the same ti
 ## Firefox
 You want the best browser that respects your data and privacy.
 [website](https://www.mozilla.org/en-US/firefox/new/)
-
-At Mozilla, the privacy is fundamental to a healthy internet.
 ## Microsoft Edge
 You want the best boat for surfing the web: Copilot artificial intelligence and a host of other practical functions are built in.
 [website](https://www.bing.com)
