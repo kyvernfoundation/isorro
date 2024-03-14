@@ -9,5 +9,5 @@ DeepL offre également une excellente protection des données.
 L'astuce pour continuer à l'utiliser gratuitement sans être limité :
 Ouvrez DeepL dans un navigateur privé. Et lorsque DeepL vous invite à payer, supprimez les cookies, rafraîchissez la page. Et le problème est résolu.
 ## Firefox Translations
-L'extension [Firefox Translations] (https://addons.mozilla.org/fr/firefox/addon/firefox-translations/) a l'avantage de traduire ce que vous voulez tout en restant entièrement sur votre ordinateur. Rien n'est envoyé sur Internet.
+L'extension [Firefox Translations](https://addons.mozilla.org/fr/firefox/addon/firefox-translations/) a l'avantage de traduire ce que vous voulez tout en restant entièrement sur votre ordinateur. Rien n'est envoyé sur Internet.
 > Pour votre sécurité et votre vie privée, c'est préférable.
