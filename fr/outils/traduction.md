@@ -1,1 +1,2 @@
 # Traduction 💬
+Lorsque vous surfez sur le web, ou même dans le monde réel, vous rencontrez d'autres langues. Vous pouvez prendre le temps d'apprendre chaque langue ou utiliser les meilleurs outils disponibles.
