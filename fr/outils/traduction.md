@@ -12,3 +12,6 @@ Ouvrez DeepL dans un navigateur privé. Et lorsque DeepL vous invite à payer, s
 ## Firefox Translations
 L'extension [Firefox Translations](https://addons.mozilla.org/fr/firefox/addon/firefox-translations/) a l'avantage de traduire ce que vous voulez tout en restant entièrement sur votre ordinateur. Rien n'est envoyé sur Internet.
 > Pour votre sécurité et votre vie privée, c'est préférable.
+
+## Reverso
+En plus de la traduction, [Reverso](https://www.reverso.net) inclut un correcteur d'orthographe et de conjugaison. Il peut donc compléter votre traducteur préféré.
