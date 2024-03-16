@@ -1,4 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## Translations
+To read in your language :
+[Version francophone 🇫🇷](https://github.com/kyvernfoundation/isorro/tree/main/fr)
 # Isorro
 Isorro comes from the Greek word ισορροπία (pronounced isorropia) meaning balance.
 - Our mission is to advise on the use of digital tools to bridge the digital divide.
