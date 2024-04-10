@@ -1,5 +1,4 @@
-## Translations
-[Version francophone 🇫🇷](https://github.com/kyvernfoundation/isorro/tree/main/fr)
+🌐 [Version francophone](https://github.com/kyvernfoundation/isorro/tree/main/fr)
 # Isorro
 Isorro comes from the Greek word ισορροπία (pronounced isorropia) meaning balance.
 - Our mission is to advise on the use of digital tools to bridge the digital divide.
