@@ -15,3 +15,7 @@ L'extension [Firefox Translations](https://addons.mozilla.org/fr/firefox/addon/f
 
 ## Reverso
 En plus de la traduction, [Reverso](https://www.reverso.net) inclut un correcteur d'orthographe et de conjugaison. Il peut donc compléter votre traducteur préféré.
+
+## EzDubs
+Pour échanger avec n'importe qui dans beaucoup de langues disponibles
+[EzDubs](https://play.google.com/store/apps/details?id=ai.ezdubs.eztrek).
