@@ -17,5 +17,4 @@ The [Firefox Translations extension](https://addons.mozilla.org/en-US/firefox/ad
 In addition to translation, [Reverso](https://www.reverso.net) includes a spelling and conjugation checker. So it can complement your favorite translator.
 
 ## EzDubs
-To chat with anyone in any of the many languages available
-[EzDubs](https://play.google.com/store/apps/details?id=ai.ezdubs.eztrek).
+[EzDubs](https://play.google.com/store/apps/details?id=ai.ezdubs.eztrek) to chat with anyone in any of the many languages available.
