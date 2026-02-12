@@ -9,8 +9,5 @@ Send us your request for advice to this e-mail address adviceisorro@kyvern.org a
 ## Paid advice
 If you'd like faster, more in-depth advice: Ask us for a premium account. Premium accounts are available from €1 per month.
 You'll get a personalized contact e-mail and a team dedicated to providing you with the best advice at your request.
-## News
-- If you'd like to see all [the latest news from the Kyvern Foundation](https://github.com/kyvernfoundation/news).
-- If you're only interested in [news from our consulting company Isorro](https://github.com/kyvernfoundation/isorro/tree/main/news).
 ## Contact
 If you have any questions or requests: contact@kyvern.org.
