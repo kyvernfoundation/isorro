@@ -6,3 +6,5 @@ Artificial intelligence can automate and improve many tasks.
 Translation tools can break down language barriers, allowing you to access information and resources in any language.
 ### [Browser 🖥️](https://github.com/kyvernfoundation/isorro/blob/main/tools/browser.md)
 Choosing the right browser can improve your browsing speed, security and online privacy.
+### [Communication 💬](https://github.com/kyvernfoundation/isorro/blob/main/tools/communication.md)
+Tools for secure and easy remote communication.
