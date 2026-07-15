@@ -8,4 +8,4 @@ We identify the best [tools](https://github.com/kyvernfoundation/isorro/tree/mai
 Send us your request for advice to this e-mail address adviceisorro@kyvern.org and we'll get back to you within 24 hours.
 ## Paid advice
 If you'd like faster, more in-depth advice: Ask us for a premium account. Premium accounts are available from €1 per month.
-You'll get a personalized contact e-mail and a team dedicated to providing you with the best advice at your request.
+You'll have access to personalized customer service and a team dedicated to providing you with the best advice at your request.
