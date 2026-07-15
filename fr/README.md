@@ -7,4 +7,4 @@ Nous identifions les meilleurs [outils](https://github.com/kyvernfoundation/isor
 Envoyez-nous votre demande de conseils à cette adresse e-mail adviceisorro@kyvern.org et nous vous répondrons dans les 24 heures.
 ## Conseils payants
 Si vous souhaitez des conseils plus rapides et plus approfondis : Demandez-nous un compte premium. Les comptes premium sont disponibles à partir de 1 € par mois.
-Vous bénéficierez d'un e-mail de contact personnalisé et d'une équipe chargée de vous fournir les meilleurs conseils à votre demande.
+Vous bénéficierez d'un moyen de contact personnalisé et d'une équipe chargée de vous fournir les meilleurs conseils à votre demande.
